@@ -34,9 +34,8 @@
   
 </div>
 
-<p align="center"> 
+  <!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/simple-c1/count.svg" />
-</p>
-
+</p> -->
 
