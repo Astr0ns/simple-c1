@@ -2,7 +2,7 @@
 
 - 👨‍🎓​Estudante de INI(Informática para Internet)
 - 🎓Série 2ª/3ª no ITB - Brasílio Flores de Azevedo(Período da tarde).
-- 📓Estudando para ser Web Devolper
+- 📓Estudando para ser um Desenvolvedor Web
 <br>
 <div align="center">
   <a href="https://github.com/simple-c1">
