@@ -10,13 +10,16 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple-c1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
-</div>
+</div >
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Simple-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="simple-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="simple-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+ <div>
+  <img align="right" alt="imagem perfil" height="128" widht="72" src="https://i.pinimg.com/originals/50/df/52/50df527e74ee7dd09d56f471ce97090f.jpg">
+</div>
+  
   
 </div>
 <br>
