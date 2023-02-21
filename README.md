@@ -1,6 +1,6 @@
 <img width=100% src="https://user-images.githubusercontent.com/116754904/220238928-652969fe-4fbf-4b28-a8fe-7329c06dc132.svg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3455&size=25&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Gustavo+Couto+;+Bem+vindo+Ao+Meu+Perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3455&size=18&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Gustavo+Couto+;+Bem+vindo+Ao+Meu+Perfil)](https://git.io/typing-svg)
 
 <div>
  
