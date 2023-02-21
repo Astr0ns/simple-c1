@@ -4,8 +4,7 @@
 
 <div>
  
-- 👨‍🎓​Estudante de INI(Informática para Internet).<br>
-- 🎓Série 2ª/3ª no ITB - Brasílio Flores de Azevedo.<br>
+- 👨‍🎓​Estudante de INI(Informática para Internet) no ITB.<br>
 - 📓Estudando para ser um Desenvolvedor Web.
 </div>
 
@@ -21,7 +20,7 @@
  
 </div >
 
-## 🛠️ Tecnologias
+## 🛠️ Conhecimento
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Simple-Js" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
