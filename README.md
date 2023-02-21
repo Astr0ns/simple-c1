@@ -9,7 +9,7 @@
 </div>
 
 
-## ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=simple-c1)
 
 <div align="center">
   <a href="https://github.com/simple-c1">
